@@ -1,6 +1,5 @@
 ## convert the miniseed-files/seed-files into sac-files, and merge 
-## lijun.seis@gmail.com 
-## 2019/03/18
+## 2019/04/19
 #
 
 import os, glob, shutil
